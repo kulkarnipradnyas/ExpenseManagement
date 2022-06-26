@@ -12,4 +12,4 @@ Bugs to be fixed:
 Add the missing source code to the application based on searching technique. Find the appropriate comments to code for the searching technique.
 Write source code for sorting the predefined array and ensure the functionality of the application. Find the appropriate comments to code for sorting the predefined array.
 You can download the boilerplate code by executing the command below in your git bash.
-git clone https://github.com/Simplilearn-Edu/Full-Stack---The-Desk-Application-.git
+
